@@ -4,6 +4,7 @@
 
 This project analyzes credit card transactions and customer behavior using Power BI. The goal is to identify spending patterns, credit utilization trends, and churn probability to help financial institutions make data-driven decisions.
 Data Source/Files:  https://github.com/rahuljadhav20/Credit_Card_Financial_Dashboard_-PowerBI-/tree/main/Data
+
 The dataset consists of two files:
 Credit Card Data (CSV): Contains transaction details, credit limits, utilization ratios, and delinquency status.
 Customer Data (CSV): Includes demographics, income levels, and satisfaction scores.
@@ -11,7 +12,7 @@ Customer Data (CSV): Includes demographics, income levels, and satisfaction scor
 Background:
 According to my understanding, customer retention is generally more cost-effective than customer acquisition. Moreover, my keen interest lies in identifying patterns, which strongly motivates me to delve deeper into this project.
 
-=========================================================================================================================================================================================================================
+============================================================================================
 
 **Data Preparation :**
 SQL Implementation for Data Preparation
